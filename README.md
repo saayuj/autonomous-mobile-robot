@@ -2,7 +2,9 @@
 
 > Building intelligent robotic systems from the ground up - from basic microcontroller programming to fully autonomous navigation.
 
-![Final Robot Demo](results/final-project/mobile_robot.mp4)
+<video src="results/final-project/mobile_robot.mp4" controls width="800">
+  Your browser does not support the video tag.
+</video>
 
 *Four-wheeled autonomous robot with Vive positioning, obstacle avoidance, and web-based control.*
 
@@ -87,7 +89,9 @@ A four-wheeled mecanum drive robot with integrated positioning, obstacle detecti
 
 #### Demonstration
 
-![Autonomous Navigation](results/final-project/mobile_robot.mp4)
+<video src="results/final-project/mobile_robot.mp4" controls width="700">
+  Your browser does not support the video tag.
+</video>
 
 *Robot autonomously navigating to target coordinates using Vive positioning while avoiding obstacles.*
 
@@ -119,7 +123,9 @@ Three-wheeled differential drive robot with ESP32 control and web interface.
 
 #### Web Control Demo
 
-![Lab 4 Web Control](results/lab4/mobile_robot_basic.mp4)
+<video src="results/lab4/mobile_robot_basic.mp4" controls width="700">
+  Your browser does not support the video tag.
+</video>
 
 *Real-time robot control via custom web interface with responsive direction commands.*
 
@@ -153,7 +159,9 @@ Control of paw, tail, and ear servos synchronized with potentiometer inputs.
 
 #### Servo Control Demo
 
-![Servo Control Demo](results/lab3/waldo.mp4)
+<video src="results/lab3/waldo.mp4" controls width="700">
+  Your browser does not support the video tag.
+</video>
 
 *Precise servo control responding to potentiometer inputs in real-time.*
 
