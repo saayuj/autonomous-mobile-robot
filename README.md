@@ -2,9 +2,9 @@
 
 Built a four-wheeled robot from scratch with autonomous navigation, real-time positioning, and obstacle avoidance.
 
-<p align="center">
-  <video src="https://github.com/user-attachments/assets/52877d46-2691-4a65-99f3-b281364eb56b" width="700"/>
-</p>
+<div align="center">
+  <video src="https://github.com/user-attachments/assets/52877d46-2691-4a65-99f3-b281364eb56b" width="700" />
+</div>
 
 ---
 
@@ -35,14 +35,13 @@ Four-wheeled differential drive robot with Vive positioning, ToF sensors, and au
 
 **Hardware:** ESP32-S3, VL53L0X ToF sensors, dual motor drivers with encoders
 
-<p align="center">
-  <img src="results/final-project/mobile_robot_1.jpeg" width="400"/>
-  <img src="results/final-project/mobile_robot_2.jpeg" width="400"/>
-</p>
+<div align="center">
+  <img src="results/final-project/mobile_robot_1.jpeg" width="500"/>
+</div>
 
-<p align="center">
-  <video src="https://github.com/user-attachments/assets/52877d46-2691-4a65-99f3-b281364eb56b" width="700"/>
-</p>
+<div align="center">
+  <video src="https://github.com/user-attachments/assets/52877d46-2691-4a65-99f3-b281364eb56b" width="700" />
+</div>
 
 ---
 
@@ -50,13 +49,13 @@ Four-wheeled differential drive robot with Vive positioning, ToF sensors, and au
 
 Three-wheeled robot with ESP32 control and web interface.
 
-<p align="center">
+<div align="center">
   <img src="results/lab4/mobile_robot_basic.jpeg" width="500"/>
-</p>
+</div>
 
-<p align="center">
-  <video src="https://github.com/user-attachments/assets/ed081df5-c04b-4d58-bd4d-b600f9d34281" width="700"/>
-</p>
+<div align="center">
+  <video src="https://github.com/user-attachments/assets/ed081df5-c04b-4d58-bd4d-b600f9d34281" width="700" />
+</div>
 
 ---
 
@@ -64,13 +63,13 @@ Three-wheeled robot with ESP32 control and web interface.
 
 Multi-axis servo control with potentiometers and ADC.
 
-<p align="center">
+<div align="center">
   <img src="results/lab3/waldo.png" width="400"/>
-</p>
+</div>
 
-<p align="center">
-  <video src="https://github.com/user-attachments/assets/b562e0ac-89f8-4c6b-94f2-f533e8ffc787" width="700"/>
-</p>
+<div align="center">
+  <video src="https://github.com/user-attachments/assets/b562e0ac-89f8-4c6b-94f2-f533e8ffc787" width="700" />
+</div>
 
 ---
 
