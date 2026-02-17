@@ -2,9 +2,7 @@
 
 > Building intelligent robotic systems from the ground up - from basic microcontroller programming to fully autonomous navigation.
 
-<video src="results/final-project/mobile_robot.mp4" controls width="800">
-  Your browser does not support the video tag.
-</video>
+https://github.com/user-attachments/assets/52877d46-2691-4a65-99f3-b281364eb56b
 
 *Four-wheeled autonomous robot with Vive positioning, obstacle avoidance, and web-based control.*
 
@@ -89,9 +87,7 @@ A four-wheeled mecanum drive robot with integrated positioning, obstacle detecti
 
 #### Demonstration
 
-<video src="results/final-project/mobile_robot.mp4" controls width="700">
-  Your browser does not support the video tag.
-</video>
+https://github.com/user-attachments/assets/52877d46-2691-4a65-99f3-b281364eb56b
 
 *Robot autonomously navigating to target coordinates using Vive positioning while avoiding obstacles.*
 
@@ -123,9 +119,7 @@ Three-wheeled differential drive robot with ESP32 control and web interface.
 
 #### Web Control Demo
 
-<video src="results/lab4/mobile_robot_basic.mp4" controls width="700">
-  Your browser does not support the video tag.
-</video>
+https://github.com/user-attachments/assets/ed081df5-c04b-4d58-bd4d-b600f9d34281
 
 *Real-time robot control via custom web interface with responsive direction commands.*
 
@@ -159,9 +153,7 @@ Control of paw, tail, and ear servos synchronized with potentiometer inputs.
 
 #### Servo Control Demo
 
-<video src="results/lab3/waldo.mp4" controls width="700">
-  Your browser does not support the video tag.
-</video>
+https://github.com/user-attachments/assets/b562e0ac-89f8-4c6b-94f2-f533e8ffc787
 
 *Precise servo control responding to potentiometer inputs in real-time.*
 
